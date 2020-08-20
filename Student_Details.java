@@ -1,3 +1,4 @@
+
 package pack2;
 import java.util.*;
 
@@ -15,7 +16,7 @@ public class Student_Details
 		System.out.println("Enter fee");
 		float fee=obj.nextFloat();
 		System.out.println("Student details");
-		System.out.println("sno="+sno+"name="+name+"age="+age+"fee="+fee);
+		System.out.println("sno="+sno+  "name="+name+ "age="+age+  "fee="+fee);
 		
 		
 		
